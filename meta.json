@@ -1,0 +1,23 @@
+{
+  "repo": "stardock-fences-5-professional-setup",
+  "product": "Stardock Fences 5 Professional Setup",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "stardock-fences-5",
+    "stardock-fences",
+    "how-to-install-stardock-fences",
+    "how-to-setup-stardock-fences",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "stardock-5",
+    "stardock-fences-5-professional-setup"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Stardock Fences 5 Professional Setup"
+}
